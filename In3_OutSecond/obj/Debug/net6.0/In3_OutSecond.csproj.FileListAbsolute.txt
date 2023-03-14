@@ -1,0 +1,15 @@
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\bin\Debug\net6.0\In3_OutSecond.exe
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\bin\Debug\net6.0\In3_OutSecond.deps.json
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\bin\Debug\net6.0\In3_OutSecond.runtimeconfig.json
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\bin\Debug\net6.0\In3_OutSecond.dll
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\bin\Debug\net6.0\In3_OutSecond.pdb
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.csproj.AssemblyReference.cache
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.GeneratedMSBuildEditorConfig.editorconfig
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.AssemblyInfoInputs.cache
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.AssemblyInfo.cs
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.csproj.CoreCompileInputs.cache
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.dll
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\refint\In3_OutSecond.dll
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.pdb
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\In3_OutSecond.genruntimeconfig.cache
+F:\УЧЁБА\HomeWork2_C#\In3_OutSecond\obj\Debug\net6.0\ref\In3_OutSecond.dll
