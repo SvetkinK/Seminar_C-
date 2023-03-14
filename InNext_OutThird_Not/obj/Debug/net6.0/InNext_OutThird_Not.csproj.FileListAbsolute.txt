@@ -1,0 +1,15 @@
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.csproj.AssemblyReference.cache
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.GeneratedMSBuildEditorConfig.editorconfig
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.AssemblyInfoInputs.cache
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.AssemblyInfo.cs
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.csproj.CoreCompileInputs.cache
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\bin\Debug\net6.0\InNext_OutThird_Not.exe
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\bin\Debug\net6.0\InNext_OutThird_Not.deps.json
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\bin\Debug\net6.0\InNext_OutThird_Not.runtimeconfig.json
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\bin\Debug\net6.0\InNext_OutThird_Not.dll
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\bin\Debug\net6.0\InNext_OutThird_Not.pdb
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.dll
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\refint\InNext_OutThird_Not.dll
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.pdb
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\InNext_OutThird_Not.genruntimeconfig.cache
+F:\УЧЁБА\HomeWork2_C#\InNext_OutThird_Not\obj\Debug\net6.0\ref\InNext_OutThird_Not.dll
