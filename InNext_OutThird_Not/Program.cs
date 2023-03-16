@@ -38,7 +38,7 @@ int NumberShow(int[] mean)
   return number;
 }
 
-int[] array = new int[8];
+int[] array = new int[];
 
 FillArray(array);
 PrintArray(array);
