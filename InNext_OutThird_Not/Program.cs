@@ -20,32 +20,30 @@ void PrintArray(int[] pen)
     index++;
   }
 }
-int NumberShow(int[] mean, int c)
+int NumberShow(int[] mean)
 {
   int b = mean.Length;
-  int index = 0;
   int number = 0;
-  for (index = 0; index < b; index++)
+  for (int index = 0; index < b; index++)
   {
-    if (index == c)
-    {
-      number = mean[index];
-    }
-    else
+    if (b < 3)
     {
       Console.WriteLine("третья цифра отсутствует");
-      break;
+    }
+    if (index == 2)
+    {
+      number = mean[index];
     }
   }
   return number;
 }
 
-int[] array = new int[3];
+int[] array = new int[8];
 
 FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int c = NumberShow(array, 2);
+int c = NumberShow(array);
 Console.WriteLine(c);
 
