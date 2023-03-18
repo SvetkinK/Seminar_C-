@@ -16,7 +16,7 @@ void PrintArray(int[] pen)
   int index = 0;
   while (index < a)
   {
-    Console.WriteLine(pen[index]);
+    Console.Write(pen[index]);
     index++;
   }
 }
@@ -38,7 +38,7 @@ int NumberShow(int[] mean)
   return number;
 }
 
-int[] array = new int[];
+int[] array = new int[7];
 
 FillArray(array);
 PrintArray(array);
